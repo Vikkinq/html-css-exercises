@@ -1,0 +1,28 @@
+div {
+  width: 200px;
+  height: 200px;
+}
+
+#one {
+  background-color: aqua;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  margin: 2px;
+}
+
+#two {
+  background-color: aquamarine;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  margin: 2px;
+}
+
+#three {
+  background-color: bisque;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  margin: 2px;
+}
