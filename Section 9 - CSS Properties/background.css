@@ -1,0 +1,12 @@
+section {
+  width: 80%;
+  height: 800px;
+  background-image: url(https://hdp-au-prod-app-wd-yoursay-files.s3.ap-southeast-2.amazonaws.com/2017/1278/9940/shutterstock_2256718159.jpg);
+  background-size: cover;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 50px;
+  color: black;
+}
